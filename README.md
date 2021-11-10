@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArthurWeimholt
-- 👀 I’m interested in ...
+- 👀 I’m interested in backend programming
 - 🌱 I’m currently learning Computer Science at University of California, Santa Cruz
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email: arthur.weimholt@gmail.com
