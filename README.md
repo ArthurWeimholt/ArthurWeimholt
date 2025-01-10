@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArthurWeimholt
-- 👀 I’m interested in C++ desktop applications.
-- 🌱 I’m currently learning Swift
+- 👀 I’m interested in application development and automation.
+- 🌱 I’m currently learning Swift/Swift UI
 - 💞️ I’m looking to collaborate on anything that interests me
 - 📫 How to reach me ... email: arthur.weimholt@gmail.com
 
