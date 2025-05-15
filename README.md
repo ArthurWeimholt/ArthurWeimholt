@@ -5,8 +5,7 @@
 - 📫 How to reach me ... email: arthur.weimholt@gmail.com
 
 ## Technical Skills
-- Love Object Oritened Programming (OOP is my bread and butter).
-- Advanced in C/C++, especially with MFC in desktop development.
+- Advanced in C/C++ especially with Object Oriented Programming design.
 - Proficient in Python with automation and server/client code.
 
 <!---
