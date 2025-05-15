@@ -5,7 +5,7 @@
 - 📫 How to reach me ... email: arthur.weimholt@gmail.com
 
 ## Technical Skills
-- Advanced in C/C++ especially with Object Oriented Programming design.
+- Advanced in C/C++ especially with design principles surrounding Object Oriented Programming.
 - Proficient in Python with automation and server/client code.
 
 <!---
